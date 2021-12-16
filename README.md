@@ -1,4 +1,11 @@
-# code-refactor
+# Code Refactor
+## Table of Contents <!-- omit in toc -->
+- [Code Refactor](#code-refactor)
+  - [User Story](#user-story)
+  - [Acceptance Criteria](#acceptance-criteria)
+  - [Mock-Up](#mock-up)
+  - [Live Links](#live-links)
+
 ## User Story
 
 ```
