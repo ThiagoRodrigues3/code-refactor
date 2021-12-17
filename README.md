@@ -11,7 +11,9 @@
 
 ## 🛠 Task
 ```
-I was tasked with Refactoring code and consolidating CSS elements to make a more precise and concise code for faster execution and a cleaner overall code aesthetic while maintaining website appearance and functionality. 
+I was tasked with Refactoring code and consolidating CSS elements to make a more precise and 
+concise code for faster execution and a cleaner overall code aesthetic while maintaining 
+website appearance and functionality. 
 ```
 
 ## 💻 Mock-Up
