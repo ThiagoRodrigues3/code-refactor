@@ -1,20 +1,38 @@
 # Code Refactor
 ## Table of Contents <!-- omit in toc -->
 - [Code Refactor](#code-refactor)
-  - [User Story](#user-story)
-  - [Acceptance Criteria](#acceptance-criteria)
+  - [🛠 Task](#-task)
   - [Mock-Up](#mock-up)
+  - [Information Given by Client](#information-given-by-client)
+    - [User Story](#user-story)
+    - [Acceptance Criteria](#acceptance-criteria)
   - [Live Links](#live-links)
 
-## User Story
+
+## 🛠 Task
+```
+I was tasked with Refactoring code and consolidating CSS elements to make a more precise and concise code for faster execution and a cleaner overall code aesthetic while maintaining website appearance and functionality. 
+```
+
+## Mock-Up
+
+The following image shows the web application's appearance and functionality:
+
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/01-html-css-git-homework-demo.png)
+
+> **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px.
+
+## Information Given by Client
+
+### User Story
 
 ```
-AS a marketing agency
+As a marketing agency
 I want a codebase that follows accessibility standards
-SO that our own site is optimized for search engines
+So that our own site is optimized for search engines
 ```
 
-## Acceptance Criteria
+### Acceptance Criteria
 
 ```
 Given a webpage meets accessibility standards
@@ -29,14 +47,6 @@ Then they fall in sequential order
 When I view the title element
 Then I find a concise, descriptive title
 ```
-
-## Mock-Up
-
-The following image shows the web application's appearance and functionality:
-
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/01-html-css-git-homework-demo.png)
-
-> **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px.
 
 ## Live Links
 [Link To Live Webpage](https://thiagorodrigues3.github.io/code-refactor/)
