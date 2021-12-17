@@ -2,11 +2,11 @@
 ## Table of Contents <!-- omit in toc -->
 - [Code Refactor](#code-refactor)
   - [🛠 Task](#-task)
-  - [Mock-Up](#mock-up)
-  - [Information Given by Client](#information-given-by-client)
-    - [User Story](#user-story)
-    - [Acceptance Criteria](#acceptance-criteria)
-  - [Live Links](#live-links)
+  - [💻 Mock-Up](#-mock-up)
+  - [💡 Information Given by Client](#-information-given-by-client)
+    - [🖥 User Story](#-user-story)
+    - [📃 Acceptance Criteria](#-acceptance-criteria)
+  - [💾 Live Links](#-live-links)
 
 
 ## 🛠 Task
@@ -14,7 +14,7 @@
 I was tasked with Refactoring code and consolidating CSS elements to make a more precise and concise code for faster execution and a cleaner overall code aesthetic while maintaining website appearance and functionality. 
 ```
 
-## Mock-Up
+## 💻 Mock-Up
 
 The following image shows the web application's appearance and functionality:
 
@@ -22,9 +22,9 @@ The following image shows the web application's appearance and functionality:
 
 > **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px.
 
-## Information Given by Client
+## 💡 Information Given by Client
 
-### User Story
+### 🖥 User Story
 
 ```
 As a marketing agency
@@ -32,7 +32,7 @@ I want a codebase that follows accessibility standards
 So that our own site is optimized for search engines
 ```
 
-### Acceptance Criteria
+### 📃 Acceptance Criteria
 
 ```
 Given a webpage meets accessibility standards
@@ -48,7 +48,7 @@ When I view the title element
 Then I find a concise, descriptive title
 ```
 
-## Live Links
+## 💾 Live Links
 [Link To Live Webpage](https://thiagorodrigues3.github.io/code-refactor/)
 
 [Link To Repository](https://github.com/ThiagoRodrigues3/code-refactor)
